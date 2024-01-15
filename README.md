@@ -3,6 +3,7 @@
 Simple and lite script for sharing subtitles
 
 Requirements
+
 ══════════════════════════════════
 1. PHP >= 4.3.0 
      (Tested on: 5.1,5.2,5.4,5.5,5.6)
@@ -18,7 +19,9 @@ Install XSubs v0.1
 5. The site is ready for use.
 
 Notes
+
 ══════════════════════════════════
+
 If subtitles not uploading create subs folder in root dir if not exist and CHMOD 777 (not read-only on windows)
 
 Screens
