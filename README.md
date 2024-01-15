@@ -11,6 +11,7 @@ Requirements
 3. Some seconds for the installation.
 
 Install XSubs v0.1
+
 ══════════════════════════════════
 1. Copy the contents of XSubs_v0.1 Folder into your root dir.
 2. Create a database with utf8_general_ci collation.
@@ -25,6 +26,7 @@ Notes
 If subtitles not uploading create subs folder in root dir if not exist and CHMOD 777 (not read-only on windows)
 
 Screens
+
 ══════════════════════════════════
 ![XSubs Homepage](https://i.postimg.cc/hv94Q7Lr/home.png "XSubs Homepage")
 ![XSubs Browse](https://i.postimg.cc/Tw53GshB/browse.png "XSubs Browse")
