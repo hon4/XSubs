@@ -17,13 +17,12 @@ Install XSubs v0.1
 4. Change the MySQL connection info into the backend/config.php folder.
 5. The site is ready for use.
 
-Notes
+Notes\n
 ══════════════════════════════════
 If subtitles not uploading create subs folder in root dir if not exist and CHMOD 777 (not read-only on windows)
 
 Screens
 ══════════════════════════════════
-![XSubs Homepage](https://i.postimg.cc/hv94Q7Lr/home.png "Homepage")
-[IMG]https://i.postimg.cc/hv94Q7Lr/home.png[/IMG]
-[IMG]https://i.postimg.cc/Tw53GshB/browse.png[/IMG]
-[IMG]https://i.postimg.cc/prNXdBFr/upload.png[/IMG]
+![XSubs Homepage](https://i.postimg.cc/hv94Q7Lr/home.png "XSubs Homepage")
+![XSubs Browse](https://i.postimg.cc/Tw53GshB/browse.png "XSubs Browse")
+![XSubs Upload](https://i.postimg.cc/prNXdBFr/upload.png "XSubs Upload")
