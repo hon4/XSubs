@@ -1,4 +1,4 @@
-[B]XSubs v0.1[/B]
+**XSubs v0.1**
 
 Simple and lite script for sharing subtitles
 
@@ -23,6 +23,7 @@ If subtitles not uploading create subs folder in root dir if not exist and CHMOD
 
 Screens
 ══════════════════════════════════
+![XSubs Homepage](https://i.postimg.cc/hv94Q7Lr/home.png "Homepage")
 [IMG]https://i.postimg.cc/hv94Q7Lr/home.png[/IMG]
 [IMG]https://i.postimg.cc/Tw53GshB/browse.png[/IMG]
 [IMG]https://i.postimg.cc/prNXdBFr/upload.png[/IMG]
